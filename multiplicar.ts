@@ -1,1 +1,1 @@
-const multiplicar = (a: number, b: number) => a * b;
+const multiplicar = (m1: number, m2: number) => m1 * m2;
